@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.themoderncircle.com
+
+# Sitemaps
+Sitemap: https://www.themoderncircle.com/sitemap.xml
