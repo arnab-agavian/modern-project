@@ -151,7 +151,7 @@ export const Blog2 = () => {
                             </div>
                             <div className='blog-body-inner-two'>
                                 <img
-                                    src={'/assets/images/blogs/blog1-img1.jpg'}
+                                    src={'/assets/images/blogs/blog2-img1.png'}
                                     alt={'partner.alt'}
                                     className="object-contain"
                                     style={{width:'100%', height:'100%', borderRadius:"14px"}}
@@ -222,12 +222,12 @@ export const Blog2 = () => {
                         </div>
 
                         <div className='mt-10 w-full'>
-                            <div className='h-500-lg' style={{backgroundImage: "url('/assets/images/blogs/blog1-img2.png')", padding:'1rem', borderRadius:'14px', color:'white', minHeight: '300px', display: 'flex',justifyContent: 'center',alignItems: 'center',height: 'fit-content'}}>
+                            <div className='h-500-lg' style={{backgroundImage: "url('/assets/images/blogs/blog2-img1.png')", padding:'1rem', borderRadius:'14px', color:'white', minHeight: '300px', display: 'flex',justifyContent: 'center',alignItems: 'center',height: 'fit-content'}}>
                                 <div className="text-center">
                                     <h2 className='sub-heading mb-2' style={{fontSize:'2rem'}}>Why Work With Us</h2>
                                     <h3 className='text-black-500 mb-1' style={{fontSize:'1.2rem'}}>We don’t just design hotels and resorts. We create places where people fall in love with the experience.</h3>
                                     <div className='mt-4' style={{display:'flex', justifyContent:'center'}}>
-                                        <h3 className='text-black-500 my-4 w-fit' style={{backgroundColor: '#8080806e',padding: '1rem',borderRadius: '14px'}}>When you work with us, you don’t just get architecture. <strong>You get</strong>:</h3>
+                                        <h3 className='text-black-500 my-4 w-fit' style={{backgroundColor: '#cbcbcb6e',padding: '1rem',borderRadius: '14px'}}>When you work with us, you don’t just get architecture. <strong>You get</strong>:</h3>
                                     </div>
                                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6 w-fit mt-6">
 

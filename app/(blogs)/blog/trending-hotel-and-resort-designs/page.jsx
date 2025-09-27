@@ -1,8 +1,7 @@
-import { Blog1 } from "@/components/blogs/Blog1";
 import { Blog2 } from "@/components/blogs/Blog2";
 
 export async function generateMetadata({ params }) {
-  const url = "https://www.themoderncircle.com/blog/trending-hotel-&-resort-designs";
+  const url = "https://www.themoderncircle.com/blog/trending-hotel-and-resort-designs";
 
   return {
     title: "Trending Hotel & Resort Designs with Pools | The Modern Circle",
